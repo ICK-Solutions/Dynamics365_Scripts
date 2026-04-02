@@ -18,7 +18,7 @@ Install-Module Microsoft.Xrm.Data.PowerShell -Scope CurrentUser -Force
 
 | Script | Description | Article |
 |--------|-------------|---------|
-| [Create-DepartementsOptionSet.ps1]([./Create-DepartementsOptionSet.ps1](https://github.com/ICK-Solutions/Dynamics365_Scripts/blob/main/CreateFRDepartmentOptionSet.ps1)) | Crée un Global OptionSet avec les 101 départements français | [Lire l'article](https://partnr365.fr/blog/optionset-departements-powershell) |
+| [CreateFRDepartmentOptionSet.ps1]([https://github.com/ICK-Solutions/Dynamics365_Scripts/blob/main/CreateFRDepartmentOptionSet.ps1]) | Crée un Global OptionSet avec les 101 départements français | [Lire l'article](https://partnr365.fr/blog/optionset-departements-powershell) |
 
 ---
 
