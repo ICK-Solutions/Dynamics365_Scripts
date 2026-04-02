@@ -26,8 +26,9 @@ Install-Module Microsoft.Xrm.Data.PowerShell -Scope CurrentUser -Force
 
 1. Télécharge le script `.ps1`
 2. Ouvre PowerShell
-3. Exécute : `.\NomDuScript.ps1`
-4. Suis les instructions interactives
+3. Install-Module Microsoft.Xrm.Data.PowerShell -Scope CurrentUser -Force
+4. Exécute : `.\NomDuScript.ps1`
+5. Suis les instructions interactives
 
 ---
 
